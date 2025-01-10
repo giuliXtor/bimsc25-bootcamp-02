@@ -10,7 +10,7 @@
 }
 
 #sidebar {
-    background-color: rgb(197, 197, 239);
+    background-color: rgb(105, 105, 153);
     width: var(--sideBarHeight);
     padding: 20px
 }
@@ -44,7 +44,7 @@
     height: 100px;
     width: 100px;
     background-color:azure;
-    border: 1px solid black;
+    border: 1px solid rgb(65, 64, 64);
     margin: 4px;
 }
 
