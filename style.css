@@ -4,19 +4,19 @@
 }
 
 #navBar {
-    background-color: rgb(233, 203, 253);
+    background-color: rgb(228, 179, 228);
     height: var(--navBarHeight);
     padding: 20px
 }
 
 #sidebar {
-    background-color: rgb(152, 152, 211);
+    background-color: rgb(197, 197, 239);
     width: var(--sideBarHeight);
     padding: 20px
 }
 
 #main {
-    background-color: rgb(145, 208, 219);
+    background-color: rgb(149, 217, 223);
     width: calc(100vw - var(--sideBarHeight));
     padding: 10px
 }
